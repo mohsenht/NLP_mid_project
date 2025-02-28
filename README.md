@@ -8,10 +8,11 @@ Before running the scripts, install the required packages using the following co
 
 ```bash
 pip install tensorflow numpy matplotlib pandas scikit-learn
+```
 ## Dataset Download
 - **Sentiment140 Dataset**: Download from [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 - Unzip the dataset and place it in the project directory.
-```
+
 ## Pretrained Word Embeddings
 - **GloVe Embeddings**: Download from [Stanford NLP GloVe](https://nlp.stanford.edu/projects/glove/)
 - Use **glove.6B.100d.txt** and unzip it in the project directory.
